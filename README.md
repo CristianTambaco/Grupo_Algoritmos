@@ -1,1 +1,1 @@
-# Grupo_algoritmos
+# Laboratorio_clase6
